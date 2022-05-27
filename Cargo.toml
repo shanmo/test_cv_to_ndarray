@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 opencv = "0.64.0"
 ndarray = "0.15.4"
+anyhow = "1.0.57"
 cv-convert = "0.18.0"
